@@ -1,2 +1,2 @@
-# my-first-project
-GitHub의 첫 번째 프로젝트입니다
+# About my first project on GitHub
+this is my profile.
